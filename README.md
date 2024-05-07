@@ -8,7 +8,7 @@ npm install -g @vue/cli
 
 vue create frontend-project (select latest version i.e. vue.js 3)
 
-# create BookDetails.vue 
+# create BooksPage.vue 
 
 This file will contain all the books associated with a link.So whenever
 user clicks on the link it will open that book
