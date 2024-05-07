@@ -25,3 +25,7 @@ npm run serve
 
 We have used get and post method.Post is used to insert the data in json file and Get is used to get the inserted data.
 
+# view the contents
+
+json-server --watch db.json
+
